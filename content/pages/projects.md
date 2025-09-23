@@ -1,0 +1,14 @@
+---
+content_type: page
+description: This section provides a video of students describing their project work
+  for the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
+title: Projects
+uid: 1e2caad3-f439-72b5-59f0-5d7ef9fd36af
+---
+
+Un video de los estudiantes de 21G.714. ({{% resource_link "53221ec1-e794-4ec6-9df8-a84741fe46da" "MP4 - 14 MB" %}})
+
+Each time 21G.714 is given (spring semester every two years), students form groups and choose one of two projects. Work usually begins during the last 4-6 weeks of the term and the project is presented the last day of classes. Because of intellectual property issues the projects themselves are not available through OpenCourseWare, but will be described briefly. One group collaborates on videos in which they interview MIT foreign students from Spanish-speaking countries as well as immigrants who live in the Boston area, such as a cook from the Dominican Republic working in a local restaurant. Students ask questions related to the cultural, sociopolitical and economic issues studied throughout the course. The second group creates a web page that addresses similar topics. Each web page is linked to that of the class two years earlier, so the effect is cumulative, as if it were a single ongoing project. In 1997 students describe the course and include general topics and individual research reports. The 1999 web page opens with photos of César Chávez, an Olmec statue, a couple dancing the tango, and the author Esmeralda Santiago, who visited MIT and read from her works. Topics include Nuestra Literatura, Nuestras Raíces, Nuestro Cine, Nuestra Comida, Nuestra Música, and Nuestra Educación. The 2001 web page, which opens with an animation of the title of the course, features biographies of the students and topics such as Cultura Latina and Latinos en EEUU, the latter with various subtopics, e.g., Bilingüismo, Inmigración, Papel del Hombre, and Papel de la Mujer. A portion of a famous Frida Kahlo painting dominates the opening page for the 2003 online project. Topics of individual student presentations reflect their ethnic backgrounds and particular interests, such as Argentina, Nicaragua, República Dominicana, La Leyenda de Pancho Villa, Fútbol Mexicano and Bailes de Salón Latinos. Students continue the practice from previous years of providing information from the US Census as well as links to relevant local and national student groups at MIT, including the {{% resource_link "d1233eec-9d89-411c-97fc-6bc4db91dedc" "Society of Hispanic Professional Engineers" %}} (SHPE), {{% resource_link "8ca43fb3-9162-4b5a-9834-4a6aace8c8d3" "Mexican-American Engineers and Scientists" %}} (MAEP) and the {{% resource_link "f69f2587-7f11-4d10-b39e-df61e53b7da1" "Latino Cultural Center" %}}.
