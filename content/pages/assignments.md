@@ -3,6 +3,8 @@ content_type: page
 description: This assignments section is written in Spanish. it provides the course
   assignments and information on class activities.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

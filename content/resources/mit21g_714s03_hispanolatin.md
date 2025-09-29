@@ -7,6 +7,8 @@ description: Classroom activity where students first make individual judgments a
 file: /courses/21g-714-spanish-for-bilingual-students-spring-2003/5b5612e948cadf3373b015ef5ebe0fa7_MIT21G_714S03_hispanolatin.pdf
 file_size: 107168
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
